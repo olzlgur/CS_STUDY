@@ -7,6 +7,10 @@ Host: 컴퓨터 + 네트워크 연결
 - 네트워크 이용주체(End-point) ex ) Peer, Server, Client
 - 네트워크 자체(Switch) ex) Router ( 경로 선정 목적 ), Fire Wall, IPS ( 보안 목적 )
 
+Switch: 경로 선택( Switching )
+- 라우터들 간의 통신을 통한 경로 선택
+- 라우팅 테이블을 기준으로 경로를 선택
+
 Network
 → Internet ( Router + DNS )
 
