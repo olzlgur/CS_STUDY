@@ -16,6 +16,7 @@ IP와 서브넷 마스크를 AND 연산 하면 네트워크 ID가 나옴
 
 ex) 255.255.255.0
 
+
 참고자료
 ```
 https://www.youtube.com/watch?v=gOMljj6K2V0&t=29s
