@@ -12,6 +12,6 @@
 - [스레드 관리](https://github.com/olzlgur/CS_STUDY/blob/main/OS/스레드%20관리.md)
 - [프로세스 스케줄링이란?](https://github.com/olzlgur/CS_STUDY/blob/main/OS/프로세스%20스케줄링이란%3F.md)
 - [프로세스 스케줄링 알고리즘](https://github.com/olzlgur/CS_STUDY/blob/main/OS/프로세스%20스케줄링%20알고리즘.md)
-
+- [프로세스 동기화](https://github.com/olzlgur/CS_STUDY/blob/main/OS/프로세스%20동기화.md)
 ### 데이터베이스
 - [SQL과 NoSQL](https://github.com/olzlgur/CS_STUDY/blob/main/Database/SQL과%20NoSQL.md)
