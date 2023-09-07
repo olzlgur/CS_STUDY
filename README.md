@@ -18,3 +18,4 @@
 ### 데이터베이스
 - [SQL과 NoSQL](https://github.com/olzlgur/CS_STUDY/blob/main/Database/SQL과%20NoSQL.md)
 - [트랜잭션](https://github.com/olzlgur/CS_STUDY/blob/main/Database/트랜잭션.md)
+- [참조 무결성](https://github.com/olzlgur/CS_STUDY/blob/main/Database/참조%20무결성.md)
