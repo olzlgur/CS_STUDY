@@ -15,3 +15,4 @@
 - [프로세스 동기화](https://github.com/olzlgur/CS_STUDY/blob/main/OS/프로세스%20동기화.md)
 ### 데이터베이스
 - [SQL과 NoSQL](https://github.com/olzlgur/CS_STUDY/blob/main/Database/SQL과%20NoSQL.md)
+- [트랜잭션](https://github.com/olzlgur/CS_STUDY/blob/main/Database/트랜잭션.md)
