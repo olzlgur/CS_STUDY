@@ -13,6 +13,8 @@
 - [프로세스 스케줄링이란?](https://github.com/olzlgur/CS_STUDY/blob/main/OS/프로세스%20스케줄링이란%3F.md)
 - [프로세스 스케줄링 알고리즘](https://github.com/olzlgur/CS_STUDY/blob/main/OS/프로세스%20스케줄링%20알고리즘.md)
 - [프로세스 동기화](https://github.com/olzlgur/CS_STUDY/blob/main/OS/프로세스%20동기화.md)
+- [스핀락](https://github.com/olzlgur/CS_STUDY/blob/main/OS/스핀락.md)
+- [세마포어](https://github.com/olzlgur/CS_STUDY/blob/main/OS/세마포어.md)
 ### 데이터베이스
 - [SQL과 NoSQL](https://github.com/olzlgur/CS_STUDY/blob/main/Database/SQL과%20NoSQL.md)
 - [트랜잭션](https://github.com/olzlgur/CS_STUDY/blob/main/Database/트랜잭션.md)
